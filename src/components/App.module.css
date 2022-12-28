@@ -1,0 +1,14 @@
+.DivCentral {
+   display: flex;
+   height: 100vh;
+   flex-direction: column;
+   justify-content: center;
+   text-align: center;
+   align-items: center;
+   font-size: 30px;
+
+}
+
+ul {
+   list-style: none;
+}
